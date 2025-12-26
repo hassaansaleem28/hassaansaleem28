@@ -1,5 +1,5 @@
 ## 👋 Hi there 
-My name is Hassaan Saleem. I'm a Full Stack Developer and Computer Science Student who loves building scalable web applications.
+My name is M Hassaan Saleem. I'm a full-stack developer and Computer Science Student who loves building scalable web applications.
 
 ## Tech Stack
 
