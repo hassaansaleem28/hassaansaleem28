@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Hassaan Saleem
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Computer+Science+Student;Open+Source+Contributor;Turning+Imaginations+into+Apps!;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;MERN+Stack+Developer;Computer+Science+Student;Open+Source+Contributor;Turning+Imaginations+into+Apps!;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,11 +12,11 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-```typescript
+```javascript
 const hassaan = {
-    location: "Pakistan 🇵🇰",
+    location: "Pakistan",
     role: "Full Stack Developer",
     education: "Computer Science Student",
     currentFocus: "React Native & Open Source Contributions",
@@ -24,11 +24,11 @@ const hassaan = {
     email: "iamhassaans@gmail.com",
     openToWork: true,
     passion: ["Building Scalable Apps", "Clean Code", "Problem Solving"],
-    motto: "Turning Imaginations into Apps 💻✨"
+    motto: "Turning Imaginations into Apps"
 };
 ```
 
-## 🤝 Let's Connect & Collaborate
+## Connect With Me
 
 <div align="center">
   
@@ -43,12 +43,14 @@ const hassaan = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redis,js,ts,html,css,sass,aws,docker,git,vscode,linux&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,mongodb,redis,js,ts,html,css,sass,tailwind,materialui,aws,docker,git,vscode,linux&perline=10" /><br/>
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Bolt.new-FF6B6B?style=for-the-badge&logo=bolt&logoColor=white" />
   <img src="https://img.shields.io/badge/Lovable.dev-FF69B4?style=for-the-badge&logo=heart&logoColor=white" />
@@ -56,7 +58,7 @@ const hassaan = {
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaansaleem28&stroke=ffffff&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
@@ -69,7 +71,7 @@ const hassaan = {
 
 ---
 
-## 🏆 Achievements & Stats
+## Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hassaansaleem28&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
@@ -80,7 +82,7 @@ const hassaan = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
   
-  ### 💻 "Code is poetry written in logic" ✨
+  ### "Code is poetry written in logic"
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Open+to+new+opportunities!" alt="Footer Typing"/>
   
