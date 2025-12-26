@@ -1,7 +1,7 @@
 ## 👋 Hi there 
 My name is Hassaan Saleem. I'm a Full Stack Developer and Computer Science Student who loves building scalable web applications.
 
-## 🛠️ My Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -21,10 +21,10 @@ My name is Hassaan Saleem. I'm a Full Stack Developer and Computer Science Stude
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
 </p>
 
-## 🚀 Currently
-- 📱 Learning **React Native** for mobile development
-- 🌱 Contributing to **Open Source** projects
-- 🔨 Building full-stack applications with modern technologies
+## Currently
+- Learning **React Native** for mobile development
+- Contributing to **Open Source** projects
+- Building full-stack applications with modern technologies
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -37,10 +37,10 @@ My name is Hassaan Saleem. I'm a Full Stack Developer and Computer Science Stude
 
 </div>
 
-## 🎓 Education
-📌 Computer Science Student
+## Education
+ Computer Science Student
 
-## 🌐 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassaansaleem28/)
 
 ---
