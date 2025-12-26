@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Hassaan Saleem
+# 👋 Hi! I'm M Hassaan Saleem
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;MERN+Stack+Developer;Computer+Science+Student;Open+Source+Contributor;Turning+Imaginations+into+Apps!;Always+Learning+New+Things!" alt="Typing SVG" />
