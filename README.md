@@ -19,7 +19,7 @@ const hassaan = {
     location: "Pakistan",
     role: "Full Stack Developer",
     education: "Computer Science Student",
-    currentFocus: "React Native & Open Source Contributions",
+    currentFocus: "Cloud Computing & Open Source Contributions",
     portfolio: "Coming Soon...",
     email: "iamhassaans@gmail.com",
     openToWork: true,
