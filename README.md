@@ -20,7 +20,7 @@ const hassaan = {
     role: "Full Stack Developer",
     education: "Computer Science Student",
     currentFocus: "Cloud Computing & Open Source Contributions",
-    portfolio: "Coming Soon...",
+    portfolio: "Coming Soon..",
     email: "iamhassaans@gmail.com",
     openToWork: true,
     passion: ["Building Scalable Apps", "Clean Code", "Problem Solving"],
