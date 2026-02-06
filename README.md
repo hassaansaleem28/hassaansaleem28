@@ -13,7 +13,6 @@
 ---
 
 ## About Me
-
 ```JavaScript
 const hassaan = {
     location: "Pakistan",
@@ -40,20 +39,17 @@ const hassaan = {
 </div>
 
 ---
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaansaleem28&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
----
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,mongodb,redis,js,ts,html,css,sass,tailwind,materialui,aws,docker,git,vscode,linux&perline=10" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,mongodb,redis,js,ts,html,css,sass,tailwind,materialui,aws,docker,kubernetes,terraform,gcp,azure,ansible,git,githubactions,linux,vscode&perline=10" /><br/>
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Bolt.new-FF6B6B?style=for-the-badge&logo=bolt&logoColor=white" />
   <img src="https://img.shields.io/badge/Lovable.dev-FF69B4?style=for-the-badge&logo=heart&logoColor=white" />
@@ -61,24 +57,32 @@ const hassaan = {
 
 ---
 
-## GitHub Statistics
+## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaansaleem28&stroke=ffffff&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hassaansaleem28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassaansaleem28&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassaansaleem28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaansaleem28&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaansaleem28&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</p>
 
 ---
 
-## Achievements
+## Contribution Activity
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassaansaleem28&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaansaleem28&custom_title=Hassaan's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hassaansaleem28&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
+</p>
 
 ---
 
