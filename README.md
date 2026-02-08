@@ -15,7 +15,7 @@
 ## About Me
 ```JavaScript
 const hassaan = {
-    location: "Pakistan",
+    location: "Lahore, Pakistan",
     role: "Full Stack Developer",
     education: "Computer Science Student",
     currentFocus: "DevOps, React Native & Open Source Contributions",
