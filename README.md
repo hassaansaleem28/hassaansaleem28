@@ -15,7 +15,7 @@
 ## About Me
 
 - &nbsp;CS Student at **University of Education Lahore, Pakistan.** 
-- &nbsp;Full Stack Developer
+- &nbsp;Full Stack Web & Mobile Developer
 - &nbsp;Passionate about **MERN Stack**, **DevOps**, and **Open Source**
 - &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/hassaansaleem28)**
 - &nbsp;Check out my **Portfolio** (Coming Soon...)
