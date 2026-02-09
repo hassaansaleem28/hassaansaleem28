@@ -152,37 +152,17 @@
 
 ## GitHub Statistics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hassaansaleem28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassaansaleem28&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaansaleem28&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hassaansaleem28&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ---
 
 ## Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaansaleem28&custom_title=Hassaan's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassaansaleem28/hassaansaleem28/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassaansaleem28/hassaansaleem28/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hassaansaleem28/hassaansaleem28/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassaansaleem28&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
-</p>
-
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaansaleem28&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 ---
 
 ## Open Source Contributions
