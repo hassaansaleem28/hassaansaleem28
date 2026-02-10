@@ -193,7 +193,7 @@ COMING SOON
 > Open-source projects in which I am actively contributing.
 
 <div align="left">
-  <a href="https://github.com/OWASP"><img src="https://github.com/OWASP.png?size=48" width="48" height="48" alt="OWASP" /></a>
+  <a href="https://github.com/OWASP/Nest"><img src="https://github.com/OWASP.png?size=48" width="48" height="48" alt="OWASP" /></a>
 </div>
 
 ---
