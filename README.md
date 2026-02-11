@@ -169,7 +169,7 @@
 
 ## Featured Projects
 
-COMING SOON
+Coming Soon...
 
 ---
 
