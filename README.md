@@ -16,7 +16,7 @@
 
 - &nbsp;CS Student at **University of Education Lahore, Pakistan.** 
 - &nbsp;Full Stack Web & Mobile Developer
-- &nbsp;Always Learning and Improving
+- &nbsp;Always Learning and Building
 - &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/hassaansaleem28)**
 - &nbsp;Check out my **Portfolio** (Coming Soon...)
 - &nbsp;Passionate about **Full Stack**, **DevOps**, **Infra tasks**, **Architecture** and **Open Source**
