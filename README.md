@@ -14,12 +14,12 @@
 
 ## About Me
 
-- &nbsp;CS Student at **University of Education Lahore, Pakistan.** 
-- &nbsp;Full Stack Web & Mobile Developer
-- &nbsp;Always Learning and Building
-- &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/hassaansaleem28)**
-- &nbsp;Check out my **Portfolio** (Coming Soon...)
-- &nbsp;Passionate about **Full Stack**, **DevOps**, **Infra tasks**, **Architecture** and **Open Source**
+- 🎓&nbsp;CS Student at **University of Education Lahore, Pakistan.** 
+- 💻&nbsp;Full Stack Web & Mobile Developer
+- 🚀&nbsp;Always Learning and Building
+- 🔗&nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/hassaansaleem28)**
+- 🌐&nbsp;Check out my **Portfolio** (Coming Soon...)
+- ❤️&nbsp;Passionate about **Full Stack**, **DevOps**, **Infra tasks**, **Architecture** and **Open Source**
 
 
 <br>
@@ -175,16 +175,30 @@ Coming Soon...
 
 ## GitHub Statistics
 
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hassaansaleem28&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=hassaansaleem28&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaansaleem28&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
 
 ## Contribution Activity
 
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaansaleem28&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassaansaleem28&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassaansaleem28&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hassaansaleem28&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
 ---
