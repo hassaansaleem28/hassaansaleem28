@@ -26,6 +26,31 @@
 
 ---
 
+
+## Connect With Me
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/hassaansaleem28" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </picture>
+  </a>
+  <a href="https://x.com/Hassaan_sayz" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+    </picture>
+  </a>
+  <a href="mailto:iamhassaans@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## Tech Stack
 > Tools, languages, and other things that I love to work with. (Improving in DevOps specially)
 
@@ -173,6 +198,15 @@ Coming Soon...
 
 ---
 
+## Open Source Contributions
+> Open-source projects in which I am actively contributing.
+
+<div align="left">
+  <a href="https://github.com/OWASP/Nest"><img src="https://github.com/OWASP.png?size=48" width="48" height="48" alt="OWASP" /></a>
+</div>
+
+---
+
 ## GitHub Statistics
 
 
@@ -200,39 +234,6 @@ Coming Soon...
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassaansaleem28&theme=tokyonight" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hassaansaleem28&theme=tokyonight" alt="Most Commit Language" />
 </div>
-
----
-
-## Open Source Contributions
-> Open-source projects in which I am actively contributing.
-
-<div align="left">
-  <a href="https://github.com/OWASP/Nest"><img src="https://github.com/OWASP.png?size=48" width="48" height="48" alt="OWASP" /></a>
-</div>
-
----
-
-## Connect With Me
-
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/hassaansaleem28" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://x.com/Hassaan_sayz" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="mailto:iamhassaans@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
