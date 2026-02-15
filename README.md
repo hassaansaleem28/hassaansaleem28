@@ -209,10 +209,19 @@ Coming Soon...
 
 ## GitHub Statistics
 
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=hassaansaleem28&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hassaansaleem28&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=hassaansaleem28&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=hassaansaleem28&theme=dark&hide_border=false)
+
+### 📊 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=hassaansaleem28&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassaansaleem28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
 ---
 
 ### Top Contributed Repo
