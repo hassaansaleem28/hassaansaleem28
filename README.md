@@ -210,33 +210,16 @@ Coming Soon...
 ## GitHub Statistics
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hassaansaleem28&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaansaleem28&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
+![](https://github-readme-stats.vercel.app/api?username=hassaansaleem28&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hassaansaleem28&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassaansaleem28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassaansaleem28&theme=tokyonight" alt="Profile Summary" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassaansaleem28&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hassaansaleem28&theme=tokyonight" alt="Most Commit Language" />
-</div>
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hassaansaleem28&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![](https://visitcount.itsvg.in/api?id=hassaansaleem28&icon=7&color=0)](https://visitcount.itsvg.in)
 
 ---
-
 <div align="center">
   <img src="https://img.shields.io/badge/Open%20to-Work-green?style=for-the-badge" alt="Open to Work">
 </div>
