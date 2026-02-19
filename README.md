@@ -194,7 +194,7 @@
 
 ## Featured Projects
 
-Coming Soon..
+Coming Soon...
 
 ---
 
