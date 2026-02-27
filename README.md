@@ -22,12 +22,7 @@
 - ❤️&nbsp;Passionate about **Full Stack**, **DevOps**, **Infra tasks**, **Architecture** & **Open Source**.
 
 
-<br>
-
----
-
-
-## Connect With Me
+## Let's Connect
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/hassaansaleem28" target="_blank" rel="noreferrer">
@@ -48,8 +43,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
 
 ## Tech Stack
 > Tools, languages, and other things that I love to work with. (Improving in DevOps specifically)
@@ -192,12 +185,6 @@
 
 ---
 
-## Featured Projects
-
-Coming Soon...
-
----
-
 ## Open Source Contributions
 > Open-source projects in which I am actively contributing.
 
@@ -221,12 +208,6 @@ Coming Soon...
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassaansaleem28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
----
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hassaansaleem28&limit=5&theme=dark&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=hassaansaleem28&icon=7&color=0)](https://visitcount.itsvg.in)
 
 ---
 <div align="center">
