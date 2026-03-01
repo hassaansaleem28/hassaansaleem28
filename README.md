@@ -189,9 +189,13 @@
 > Open-source projects in which I am actively contributing.
 
 <div align="left">
-  <a href="[https://github.com/OWASP/Nest](https://github.com/OWASP/Nest/pulls?q=is%3Apr+author%3Ahassaansaleem28+is%3Aclosed)"><img src="https://github.com/OWASP.png?size=48" width="48" height="48" alt="OWASP" /></a>
+  <a href="https://github.com/OWASP/Nest/pulls?q=is%3Apr+author%3Ahassaansaleem28+is%3Aclosed" target="_blank">
+    <img src="https://github.com/OWASP.png?size=48" width="48" height="48" alt="OWASP" />
+  </a>
   &nbsp;&nbsp;
-  <a href="[https://github.com/jenkins-infra/contributors-spotlight](https://github.com/jenkins-infra/contributor-spotlight/pulls?q=is%3Apr+author%3Ahassaansaleem28+is%3Aclosed)"><img src="https://github.com/jenkinsci.png?size=48" width="48" height="48" alt="Jenkins" /></a>
+  <a href="https://github.com/jenkins-infra/contributor-spotlight/pulls?q=is%3Apr+author%3Ahassaansaleem28+is%3Aclosed" target="_blank">
+    <img src="https://github.com/jenkinsci.png?size=48" width="48" height="48" alt="Jenkins" />
+  </a>
 </div>
 
 ---
