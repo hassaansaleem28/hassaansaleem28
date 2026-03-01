@@ -190,6 +190,8 @@
 
 <div align="left">
   <a href="https://github.com/OWASP/Nest"><img src="https://github.com/OWASP.png?size=48" width="48" height="48" alt="OWASP" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/jenkins-infra/contributors-spotlight"><img src="https://github.com/jenkinsci.png?size=48" width="48" height="48" alt="Jenkins" /></a>
 </div>
 
 ---
