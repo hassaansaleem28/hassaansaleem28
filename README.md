@@ -22,6 +22,7 @@
 - ❤️&nbsp;Passionate about **Full Stack**, **DevOps**, **Infra tasks**, **Architecture** & **Open Source**.
 
 
+---
 
 ## Tech Stack
 
