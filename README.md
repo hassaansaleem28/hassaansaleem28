@@ -56,7 +56,6 @@
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" title="Node.js"/>
       <img src="https://skillicons.dev/icons?i=express" width="40" height="40" title="Express"/>
-      <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" title="Redux"/>
     </td>
   </tr>
   <tr>
