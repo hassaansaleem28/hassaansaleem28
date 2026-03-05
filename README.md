@@ -67,7 +67,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>DevOps &amp; Cloud</b></td>
+    <td><b>DevOps</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" title="Docker"/>
       <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" title="AWS"/>
