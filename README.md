@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Muhammad Hassaan Saleem
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Calibri+Code&size=32&duration=2800&pause=2000&color=2AA198&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;DevOps+Learner;Computer+Science+Student;Open+Source+Contributor;Turning+Imaginations+into+Apps!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Calibri+Code&size=32&duration=2800&pause=2000&color=2AA198&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;DevOps+Learner;Open+Source+Contributor;Turning+Imaginations+into+Apps!" alt="Typing SVG" />
 </div>
 
 <div align="center">
