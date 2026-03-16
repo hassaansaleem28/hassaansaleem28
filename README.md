@@ -17,7 +17,7 @@
 - 🎓&nbsp;CS Student at **University of Education Lahore, Pakistan.** 
 - 💻&nbsp;Full Stack Web & Mobile Developer
 - 🚀&nbsp;Always Learning and Building
-- ❤️&nbsp;Passionate about **Full Stack**, **DevOps**, **Infra tasks**, **Architecture** & **Open Source**.
+- ❤️&nbsp;Passionate about **Full Stack**, **DevOps** & **Open Source**.
 
 
 ---
