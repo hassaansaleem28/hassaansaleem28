@@ -1,7 +1,7 @@
 #   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"/> Hi! I'm Muhammad Hassaan Saleem
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Calibri+Code&size=32&duration=2800&pause=2000&color=2AA198&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;DevOps+Learner;Open+Source+Contributor;Turning+Imaginations+into+Apps!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Calibri+Code&size=32&duration=2800&pause=2000&color=2AA198&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;DevOps+Learner;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
