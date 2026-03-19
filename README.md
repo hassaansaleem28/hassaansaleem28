@@ -131,7 +131,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
   
-  ### "Code is poetry written in logic."
+  ### -- Code is poetry written in logic --
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Open+to+new+opportunities!" alt="Footer Typing"/>
   
