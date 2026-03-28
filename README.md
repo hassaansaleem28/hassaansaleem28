@@ -111,7 +111,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=hassaansaleem28&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=hassaansaleem28&theme=dark&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaansaleem28&stroke=ffffff&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 
 ### Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=hassaansaleem28&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)
