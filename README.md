@@ -22,60 +22,40 @@
 
 ## Tech Stack
 
-<div>
+<div align="center">
 
 <table align="center">
   <tr>
-    <td><b>Languages</b></td>
+    <td align="left"><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" title="TypeScript"/>
-      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" title="JavaScript"/>
-      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" title="Java"/>
-      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" title="Python"/>
-      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" title="C++"/>
+      <img src="https://skillicons.dev/icons?i=ts,js,java,python,cpp" alt="Languages" />
     </td>
   </tr>
   <tr>
-    <td><b>Frontend</b></td>
+    <td align="left"><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" title="React"/>
-      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" title="Next.js"/>
-      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" title="HTML"/>
-      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" title="CSS"/>
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" title="Tailwind CSS"/>
-      <img src="https://skillicons.dev/icons?i=sass" width="40" height="40" title="Sass"/>
-      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" title="Figma"/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass,figma" alt="Frontend" />
     </td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
+    <td align="left"><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" title="Node.js"/>
-      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" title="Express"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
     </td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
+    <td align="left"><b>Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" title="MongoDB"/>
-      <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" title="Redis"/>
+      <img src="https://skillicons.dev/icons?i=mongodb,redis" alt="Databases" />
     </td>
   </tr>
   <tr>
-    <td><b>DevOps</b></td>
+    <td align="left"><b>DevOps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" title="Docker"/>
-      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" title="AWS"/>
-      <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" title="GCP"/>
-      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" title="Linux"/>
-      <img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" title="Terraform"/>
-      <img src="https://skillicons.dev/icons?i=ansible" width="40" height="40" title="Ansible"/>
-      <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" title="GitHub Actions / CI CD"/>
+      <img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,terraform,ansible,githubactions" alt="DevOps" />
     </td>
   </tr>
 </table>
-
-</div>
 
 <br/>
 
