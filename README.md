@@ -22,7 +22,7 @@
 
 ## Tech Stack
 
-<div align="center">
+<div>
 
 <table>
   <tr>
