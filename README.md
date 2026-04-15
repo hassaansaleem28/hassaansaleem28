@@ -24,7 +24,7 @@
 
 <div>
 
-<table>
+<table align="center">
   <tr>
     <td><b>Languages</b></td>
     <td>
