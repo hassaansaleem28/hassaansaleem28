@@ -10,8 +10,7 @@
 
 ---
 
-## About Me
-
+## About 
 - &nbsp;CS Student at **University of Education Lahore, Pakistan.** 
 - &nbsp;Full Stack Web & Mobile Developer
 - &nbsp;Always Learning and Building
@@ -89,35 +88,11 @@
 
 ---
 
-## GitHub Statistics
-
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=hassaansaleem28&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaansaleem28&stroke=ffffff&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-
-### Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=hassaansaleem28&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassaansaleem28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Open+to+new+opportunities!" alt="Footer Typing"/>
+  <div align="center">
   <img src="https://img.shields.io/badge/Open%20to-Work-green?style=for-the-badge" alt="Open to Work">
 </div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
-  
-  ### -- Code is poetry written in logic --
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Open+to+new+opportunities!" alt="Footer Typing"/>
-  
-  **⭐ Star my repos if you find them useful!**
   
 </div>
