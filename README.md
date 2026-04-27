@@ -12,8 +12,8 @@
 
 ## About
 
-I'm a CS student at **University of Education Lahore, Pakistan** with a soft spot for clean code and clever automations. By day </br>
-I'm a **Full Stack Web & Mobile Developer**, by night I'm probably wiring up something in my home or contributing to **Open Source**. </br>
+I'm a CS student at **University of Education Lahore, Pakistan** with a soft spot for clean code and clever automations. By day 
+I'm a **Full Stack Web & Mobile Developer**, by night I'm probably wiring up something in my home or contributing to **Open Source**.
 My playground spans **Full Stack**, **DevOps**, and **Home Automations**, and I'm always chasing the next thing to learn, break, fix, and ship. 
 
 ---
