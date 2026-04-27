@@ -10,12 +10,11 @@
 
 ---
 
-## About 
-- &nbsp;CS Student at **University of Education Lahore, Pakistan.** 
-- &nbsp;Full Stack Web & Mobile Developer
-- &nbsp;Always Learning and Building
-- &nbsp;Passionate about **Full Stack**, **DevOps** & **Open Source**.
+## About
 
+I'm a CS student at **University of Education Lahore, Pakistan** with a soft spot for clean code and clever automations. By day </br>
+I'm a **Full Stack Web & Mobile Developer**, by night I'm probably wiring up something in my home or contributing to **Open Source**. </br>
+My playground spans **Full Stack**, **DevOps**, and **Home Automations**, and I'm always chasing the next thing to learn, break, fix, and ship. 
 
 ---
 
