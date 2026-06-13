@@ -71,16 +71,16 @@ My playground spans **Full Stack**, **DevOps**, and **Home Automations**, and I'
 ## Open Source Contributions
 > Open-source projects in which I am actively contributing.
 <div align="left">
-  <a href="https://github.com/OWASP/Nest/pulls?q=is%3Apr+author%3Ahassaansaleem28+is%3Aclosed" target="_blank">
-    <img src="https://github.com/OWASP.png?size=48" width="48" height="48" alt="OWASP" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/jenkins-infra/contributor-spotlight/pulls?q=is%3Apr+author%3Ahassaansaleem28+is%3Aclosed" target="_blank">
-    <img src="https://github.com/jenkinsci.png?size=48" width="48" height="48" alt="Jenkins" />
+<a href="https://github.com/OWASP/Nest/pulls?q=is%3Apr+author%3Ahassaansaleem28+is%3Aclosed" target="_blank">
+    <img src="https://raw.githubusercontent.com/OWASP/Nest/main/frontend/public/img/logo_dark.png" width="48" height="48" alt="OWASP Nest" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/open-metadata/OpenMetadata/pulls?q=is%3Apr+author%3Ahassaansaleem28+is%3Aclosed" target="_blank">
     <img src="https://github.com/open-metadata.png?size=48" width="48" height="48" alt="OpenMetadata" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://github.com/jenkins-infra/contributor-spotlight/pulls?q=is%3Apr+author%3Ahassaansaleem28+is%3Aclosed" target="_blank">
+    <img src="https://github.com/jenkinsci.png?size=48" width="48" height="48" alt="Jenkins" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/withcoral/coral/pulls?q=is%3Apr+author%3Ahassaansaleem28+is%3Aclosed" target="_blank">
