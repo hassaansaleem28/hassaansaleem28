@@ -12,7 +12,7 @@ LinkedIn : [hassaansaleem28](https://www.linkedin.com/in/hassaansaleem28) ¬∑ ùï
  
 </div>
 
-### Open source
+### Work in Open source
  
 50 merged PRs to open-source projects across security, AI memory, observability, data engineering and beyond.
  
@@ -75,16 +75,3 @@ A multi-vendor store where sellers run their own shops and buyers check out from
 </table>
 
 More on my site: [hassaansaleem.engineer](https://hassaansaleem.engineer/projects).
-
-
-
-## Tools I use
- 
-- **Languages:** TypeScript, JavaScript, Python, Java, C++
-- **Frontend:** React, Next.js, React Native, Tailwind CSS, Sass, shadcn/ui, RTK Query
-- **Backend:** Node.js, Express
-- **Databases:** MongoDB, Redis
-- **DevOps:** Docker, AWS, GCP, Linux, Terraform, Ansible, GitHub Actions, Jenkins
-## Currently
- 
-Open to full stack, mobile and DevOps roles and internships.
