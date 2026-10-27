@@ -58,6 +58,7 @@ Watches job posts, startup directories and changelogs for buying signals, then r
 </tr>
 <tr>
 <td width="50%" valign="top">
+ 
 **[Learnix](https://github.com/hassaansaleem28/Learnix-LMS)** &nbsp;<sub>`LMS`</sub>
  
 A learning platform for developers, with video courses, Stripe checkout, threaded Q&A and reviews, and live admin alerts over Socket.IO. The API uses Redis caching, refresh-token auth and rate limiting.
