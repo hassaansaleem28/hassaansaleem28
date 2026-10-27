@@ -3,17 +3,17 @@ I'm Hassaan, a software engineer who works across the full stack for web and mob
 I love knowing what happens behind the scenes, in systems and beyond. That's what got me reading about distributed systems, observability and microservices architecture, and now AI is on that list too.
  
 These days I'm building observability for the AWS infrastructure behind [OWASP Nest](https://github.com/OWASP/Nest): reading, planning, building and enjoying it along the way. I'm also a mentor at Dev Weekends, where I did my first internship, and a final-year CS student at the University of Education, Lahore, Pakistan.
-
+ 
 You can connect with me here:<br>
-
+ 
 <div align="center">  
-
+ 
 LinkedIn : [hassaansaleem28](https://www.linkedin.com/in/hassaansaleem28) · 𝕏 : [hassaanships](https://x.com/hassaanships) · Website : [hassaansaleem.engineer](https://hassaansaleem.engineer)
  
 </div>
 
 ---
-
+ 
 ### Work in Open source
  
 50 merged PRs to open-source projects across security, AI memory, observability, data engineering and beyond.
@@ -29,10 +29,10 @@ LinkedIn : [hassaansaleem28](https://www.linkedin.com/in/hassaansaleem28) · �
 | <a href="https://github.com/jaegertracing/jaeger"><b>Jaeger</b></a> | <a href="https://github.com/jaegertracing/jaeger/stargazers"><img src="https://img.shields.io/github/stars/jaegertracing/jaeger?style=flat&label=stars" height="24" alt="Stars"></a> | <a href="https://github.com/jaegertracing/jaeger/forks"><img src="https://img.shields.io/github/forks/jaegertracing/jaeger?style=flat&label=forks" height="24" alt="Forks"></a> | [1](https://github.com/search?type=pullrequests&q=is%3Apr%20is%3Amerged%20author%3Ahassaansaleem28%20repo%3Ajaegertracing%2Fjaeger) | Fixed the Elasticsearch storage README's test command and broken links. |
 | <a href="https://github.com/amazon-braket/amazon-braket-sdk-python"><b>Amazon&nbsp;Braket</b></a> | <a href="https://github.com/amazon-braket/amazon-braket-sdk-python/stargazers"><img src="https://img.shields.io/github/stars/amazon-braket/amazon-braket-sdk-python?style=flat&label=stars" height="24" alt="Stars"></a> | <a href="https://github.com/amazon-braket/amazon-braket-sdk-python/forks"><img src="https://img.shields.io/github/forks/amazon-braket/amazon-braket-sdk-python?style=flat&label=forks" height="24" alt="Forks"></a> | [1](https://github.com/search?type=pullrequests&q=is%3Apr%20is%3Amerged%20author%3Ahassaansaleem28%20repo%3Aamazon-braket%2Famazon-braket-sdk-python) | Completed the SDK cheat sheet with verified code snippets. |
  
-<sub>Plus 4 more in [SalmanDeveloperz/signoz-ai-sre](https://github.com/SalmanDeveloperz/signoz-ai-sre).</sub>
-
+<sub>+ 4 more in [SalmanDeveloperz/signoz-ai-sre](https://github.com/SalmanDeveloperz/signoz-ai-sre).</sub>
+ 
 ---
-
+ 
 ### Projects I've built
  
 <table>
@@ -58,7 +58,6 @@ Watches job posts, startup directories and changelogs for buying signals, then r
 </tr>
 <tr>
 <td width="50%" valign="top">
-
 **[Learnix](https://github.com/hassaansaleem28/Learnix-LMS)** &nbsp;<sub>`LMS`</sub>
  
 A learning platform for developers, with video courses, Stripe checkout, threaded Q&A and reviews, and live admin alerts over Socket.IO. The API uses Redis caching, refresh-token auth and rate limiting.
@@ -79,3 +78,8 @@ A multi-vendor store where sellers run their own shops and buyers check out from
 </table>
 
 More on my site: [hassaansaleem.engineer](https://hassaansaleem.engineer/projects).
+ 
+ 
+---
+ 
+<img src="./assets/banner.jpg" width="100%" alt="">
