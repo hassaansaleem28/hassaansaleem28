@@ -1,4 +1,4 @@
-I'm Hassaan, a software engineer who works across the full stack for web and mobile, as well as on infrastructure and observability. Lately I've been exploring AI engineering. I follow AI news and research every day and try to build with what I learn.
+Heyy!  I'm Hassaan, a software engineer who works across the full stack for web and mobile, as well as on infrastructure and observability. Lately I've been exploring AI engineering. I follow AI news and research every day and try to build with what I learn.
  
 I love knowing what happens behind the scenes, in systems and beyond. That's what got me reading about distributed systems, observability and microservices architecture, and now AI is on that list too.
  
