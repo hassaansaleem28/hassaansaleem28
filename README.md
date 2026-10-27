@@ -28,6 +28,56 @@ LinkedIn : [hassaansaleem28](https://www.linkedin.com/in/hassaansaleem28) · �
 | <a href="https://github.com/amazon-braket/amazon-braket-sdk-python"><b>Amazon&nbsp;Braket</b></a> | [![Stars](https://img.shields.io/github/stars/amazon-braket/amazon-braket-sdk-python?style=flat&label=stars)](https://github.com/amazon-braket/amazon-braket-sdk-python/stargazers) | [![Forks](https://img.shields.io/github/forks/amazon-braket/amazon-braket-sdk-python?style=flat&label=forks)](https://github.com/amazon-braket/amazon-braket-sdk-python/forks) | [1](https://github.com/search?type=pullrequests&q=is%3Apr%20is%3Amerged%20author%3Ahassaansaleem28%20repo%3Aamazon-braket%2Famazon-braket-sdk-python) | Completed the SDK cheat sheet with verified code snippets. |
  
 <sub>Plus 4 more in [SalmanDeveloperz/signoz-ai-sre](https://github.com/SalmanDeveloperz/signoz-ai-sre).</sub>
+
+### Projects I've built
+ 
+<table>
+<tr>
+<td width="50%" valign="top">
+ 
+**[Gary](https://github.com/hassaansaleem28/gary)** &nbsp;<sub>`AI agent`</sub>
+ 
+Answers questions about your company from a knowledge graph instead of text search. It pulls in Slack, Jira, Notion, GitHub and meeting notes, and tracks which decisions replaced which, so it can tell you what's true now, what used to be, and which docs are out of date.
+ 
+<sub>Next.js · FalkorDB · Groq · MCP · [Live](https://heygary.vercel.app) · [Case study](https://hassaansaleem.engineer/gary)</sub>
+ 
+</td>
+<td width="50%" valign="top">
+ 
+**[Spinneret](https://github.com/hassaansaleem28/spinneret)** &nbsp;<sub>`Lead intelligence`</sub>
+ 
+Watches job posts, startup directories and changelogs for buying signals, then ranks companies by how likely they are to buy. When a scraper breaks, it scores the damage, writes its own repair and verifies the fix. One broken collector went from 20/100 to 97/100.
+ 
+<sub>Next.js · SQLite · Bright Data · [Live](https://spinneret-pied.vercel.app) · [Case study](https://hassaansaleem.engineer/spinneret)</sub>
+ 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Learnix](https://github.com/hassaansaleem28/Learnix-LMS)** &nbsp;<sub>`LMS`</sub>
+ 
+A learning platform for developers, with video courses, Stripe checkout, threaded Q&A and reviews, and live admin alerts over Socket.IO. The API uses Redis caching, refresh-token auth and rate limiting.
+ 
+<sub>Next.js · Express · MongoDB · Redis · [Live](https://learnix-lms.vercel.app)</sub>
+ 
+</td>
+<td width="50%" valign="top">
+ 
+**[ShopO](https://github.com/hassaansaleem28/Multi-Vendor-Ecommerce-App)** &nbsp;<sub>`Marketplace`</sub>
+ 
+A multi-vendor store where sellers run their own shops and buyers check out from several at once. It has Stripe payments, real-time buyer–seller chat, and seller tools for coupons, events, analytics and withdrawals.
+ 
+<sub>React · Express · MongoDB · Socket.IO · [Live](https://multi-vendor-frontend-blond.vercel.app) · [Case study](https://hassaansaleem.engineer/multivendor-platform)</sub>
+ 
+</td>
+</tr>
+</table>
+
+More on my site: [hassaansaleem.engineer](https://hassaansaleem.engineer/projects).
+
+
+
 ## Tools I use
  
 - **Languages:** TypeScript, JavaScript, Python, Java, C++
